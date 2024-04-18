@@ -1,4 +1,4 @@
-# Instrukcja instalacji i konfiguracji skryptu zbierającego dane o użyciu dysku
+# Instrukcja instalacji i konfiguracji [skryptu](https://github.com/stachusar/Data-usage-collector/blob/collector/collector.py) zbierającego dane o użyciu dysku
 
 ## Spis treści:
 [Wymagania instalacyjne](#1-wymagania-instalacyjne)  
